@@ -1,3 +1,3 @@
 # Kernel
 
-Basic kernel made with Rust.
+Basic kernel made with Rust for learning purposes :D.
